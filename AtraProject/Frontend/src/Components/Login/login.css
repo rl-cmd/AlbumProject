@@ -1,0 +1,38 @@
+.hh{
+    margin-top: 50%;
+}
+.HH{
+    margin: 10% !important;
+    color: rgb(252, 206, 252);
+    opacity:1;
+
+}
+.div1{
+    margin:10% 3% 10% 3%;
+    text-align: center;
+    /* opacity: 0.5; */
+}
+label{
+    font-size: large;
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right !important;
+}
+h1,h2{
+    color: rgb(82, 6, 82);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn2{
+    margin-top:  70%;
+
+}
+body{
+    color: rgb(82, 6, 82);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card{
+display: inline-block !important;
+}
+.bb{
+  margin: 5% 5% 5% 12%;
+}
